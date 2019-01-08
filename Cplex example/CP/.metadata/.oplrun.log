@@ -1,0 +1,108 @@
+!SESSION 2018-09-27 13:44:09.888 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.0 - pwa6480sr5-20170905_01(SR5)
+JRE 1.8.0 IBM J9 2.9 Windows 10 amd64-64 Compressed References 20170901_363591 (JIT enabled, AOT enabled)
+J9VM - d56eb84
+JIT  - tr.open_20170901_140853_d56eb84
+OMR  - b033a01
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en
+Command-line arguments:  -clean -nl en -configuration C:\Users\Lenovo\Desktop\IBM\CP\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2018-09-27 13:44:09.888
+!MESSAGE Run Vellino in C:/Users/Lenovo/Desktop/IBM/CP/vellino
+!SESSION 2018-09-27 13:52:01.278 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.0 - pwa6480sr5-20170905_01(SR5)
+JRE 1.8.0 IBM J9 2.9 Windows 10 amd64-64 Compressed References 20170901_363591 (JIT enabled, AOT enabled)
+J9VM - d56eb84
+JIT  - tr.open_20170901_140853_d56eb84
+OMR  - b033a01
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en
+Command-line arguments:  -clean -nl en -configuration C:\Users\Lenovo\Desktop\IBM\CP\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2018-09-27 13:52:01.279
+!MESSAGE Run Car Factory Planning - Big dataset in C:/Users/Lenovo/Desktop/IBM/CP/car
+!SESSION 2018-09-27 22:21:24.571 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.0 - pwa6480sr5-20170905_01(SR5)
+JRE 1.8.0 IBM J9 2.9 Windows 10 amd64-64 Compressed References 20170901_363591 (JIT enabled, AOT enabled)
+J9VM - d56eb84
+JIT  - tr.open_20170901_140853_d56eb84
+OMR  - b033a01
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en
+Command-line arguments:  -clean -nl en -configuration C:\Users\Lenovo\Desktop\IBM\CP\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2018-09-27 22:21:24.572
+!MESSAGE Run Basic Configuration in C:/Users/Lenovo/Desktop/IBM/CP/production
+!SESSION 2018-09-27 23:06:18.865 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.0 - pwa6480sr5-20170905_01(SR5)
+JRE 1.8.0 IBM J9 2.9 Windows 10 amd64-64 Compressed References 20170901_363591 (JIT enabled, AOT enabled)
+J9VM - d56eb84
+JIT  - tr.open_20170901_140853_d56eb84
+OMR  - b033a01
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en
+Command-line arguments:  -clean -nl en -configuration C:\Users\Lenovo\Desktop\IBM\CP\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2018-09-27 23:06:18.866
+!MESSAGE Run Solve models sequence by changing data in C:/Users/Lenovo/Desktop/IBM/CP/mulprod
+!SESSION 2018-09-28 11:07:20.141 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.0 - pwa6480sr5-20170905_01(SR5)
+JRE 1.8.0 IBM J9 2.9 Windows 10 amd64-64 Compressed References 20170901_363591 (JIT enabled, AOT enabled)
+J9VM - d56eb84
+JIT  - tr.open_20170901_140853_d56eb84
+OMR  - b033a01
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en
+Command-line arguments:  -clean -nl en -configuration C:\Users\Lenovo\Desktop\IBM\CP\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2018-09-28 11:07:20.142
+!MESSAGE Run Solve models sequence by changing data in C:/Users/Lenovo/Desktop/IBM/CP/mulprod
+!SESSION 2018-09-28 11:15:30.603 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.0 - pwa6480sr5-20170905_01(SR5)
+JRE 1.8.0 IBM J9 2.9 Windows 10 amd64-64 Compressed References 20170901_363591 (JIT enabled, AOT enabled)
+J9VM - d56eb84
+JIT  - tr.open_20170901_140853_d56eb84
+OMR  - b033a01
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en
+Command-line arguments:  -clean -nl en -configuration C:\Users\Lenovo\Desktop\IBM\CP\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2018-09-28 11:15:30.604
+!MESSAGE Run Modify CPLEX model incrementally in C:/Users/Lenovo/Desktop/IBM/CP/mulprod
+!SESSION 2018-09-28 11:32:17.679 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.0 - pwa6480sr5-20170905_01(SR5)
+JRE 1.8.0 IBM J9 2.9 Windows 10 amd64-64 Compressed References 20170901_363591 (JIT enabled, AOT enabled)
+J9VM - d56eb84
+JIT  - tr.open_20170901_140853_d56eb84
+OMR  - b033a01
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en
+Command-line arguments:  -clean -nl en -configuration C:\Users\Lenovo\Desktop\IBM\CP\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2018-09-28 11:32:17.679
+!MESSAGE Run Full relaxed problem using column generation in C:/Users/Lenovo/Desktop/IBM/CP/cutstock
+!SESSION 2018-09-28 12:14:45.510 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.0 - pwa6480sr5-20170905_01(SR5)
+JRE 1.8.0 IBM J9 2.9 Windows 10 amd64-64 Compressed References 20170901_363591 (JIT enabled, AOT enabled)
+J9VM - d56eb84
+JIT  - tr.open_20170901_140853_d56eb84
+OMR  - b033a01
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en
+Command-line arguments:  -clean -nl en -configuration C:\Users\Lenovo\Desktop\IBM\CP\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2018-09-28 12:14:45.511
+!MESSAGE Run Vellino in C:/Users/Lenovo/Desktop/IBM/CP/vellino
+!SESSION 2018-09-28 12:23:56.947 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.0 - pwa6480sr5-20170905_01(SR5)
+JRE 1.8.0 IBM J9 2.9 Windows 10 amd64-64 Compressed References 20170901_363591 (JIT enabled, AOT enabled)
+J9VM - d56eb84
+JIT  - tr.open_20170901_140853_d56eb84
+OMR  - b033a01
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en
+Command-line arguments:  -clean -nl en -configuration C:\Users\Lenovo\Desktop\IBM\CP\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2018-09-28 12:23:56.948
+!MESSAGE Run Car sequencing in C:/Users/Lenovo/Desktop/IBM/CP/car

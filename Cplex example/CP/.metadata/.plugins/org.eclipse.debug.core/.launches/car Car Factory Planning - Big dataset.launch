@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><launchConfiguration type="opl.launchType">
+<stringAttribute key="opl.debugModel.ATTR_ELEMENT_ID" value="=ca\rR\Run Con\figu\rationsrCa\r Facto\ry Planning - Big dataset"/>
+<stringAttribute key="opl.debugModel.ATTR_PROJECT" value="car"/>
+<stringAttribute key="opl.debugModel.ATTR_RUN_CONFIG" value="Car Factory Planning - Big dataset"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/car"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="4"/>
+</listAttribute>
+</launchConfiguration>

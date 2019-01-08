@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><launchConfiguration type="opl.launchType">
+<stringAttribute key="opl.debugModel.ATTR_ELEMENT_ID" value="=myFi\rstP\rojectR\Run Con\figu\rationsrBa\r\rie\r"/>
+<stringAttribute key="opl.debugModel.ATTR_PROJECT" value="myFirstProject"/>
+<stringAttribute key="opl.debugModel.ATTR_RUN_CONFIG" value="Barrier"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/myFirstProject"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="4"/>
+</listAttribute>
+</launchConfiguration>

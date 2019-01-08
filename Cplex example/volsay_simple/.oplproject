@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config default="true" name="Configuration1" category="opl">
+			<ref name="volsay_simple.mod" type="model">
+			</ref>
+		</config>
+		<config default="false" name="complex1" category="opl">
+			<ref name="volsay_complex1.mod" type="model">
+			</ref>
+		</config>
+		<config default="false" name="complex2" category="opl">
+			<ref name="complex2.mod" type="model">
+			</ref>
+		</config>
+		<config default="false" name="complex3" category="opl">
+			<ref name="complex3.dat" type="data">
+			</ref>
+			<ref name="complex3.mod" type="model">
+			</ref>
+		</config>
+		<config default="false" name="complex4" category="opl">
+			<ref name="complex4.dat" type="data">
+			</ref>
+			<ref name="complex4.mod" type="model">
+			</ref>
+		</config>
+	</configs>
+	
+</project>

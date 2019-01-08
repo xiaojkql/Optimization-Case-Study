@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="IloSamplesWizard">
+		<item value="C:\Users\Lenovo\Desktop\IBM\LP_Basic" key="ilog.odms.ide.samples.opl.STORE_COPY_LOCATION"/>
+		<section name="expanded">
+			<section name="Complexity">
+				<list key="Complexity">
+					<item value="Basic"/>
+					<item value="Intermediate"/>
+				</list>
+			</section>
+		</section>
+	</section>
+</section>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="IloSamplesWizard">
+		<item value="C:\Users\Lenovo\Desktop\IBM" key="ilog.odms.ide.samples.opl.STORE_COPY_LOCATION"/>
+		<section name="expanded">
+			<section name="Industry">
+				<list key="Industry">
+				</list>
+			</section>
+			<section name="技术">
+				<list key="技术">
+					<item value="线性规划"/>
+				</list>
+			</section>
+			<section name="功能部件">
+				<list key="功能部件">
+					<item value="OPL 单独模型"/>
+					<item value="OPL 流程控制脚本"/>
+					<item value="批处理"/>
+				</list>
+			</section>
+			<section name="Technique">
+				<list key="Technique">
+					<item value="Linear Programming"/>
+					<item value="Mixed Integer Quadratic Programming"/>
+					<item value="Stochastic"/>
+				</list>
+			</section>
+			<section name="Feature">
+				<list key="Feature">
+				</list>
+			</section>
+			<section name="Complexity">
+				<list key="Complexity">
+				</list>
+			</section>
+		</section>
+	</section>
+	<section name="IloNewOplProjectWizard">
+		<item value="C:\Users\Lenovo\Desktop\IBM" key="IloNewOplProjectWizard.STORE_ROOT_DIRECTORY"/>
+	</section>
+	<section name="IloNewRunConfigWizard">
+		<item value="false" key="IloNewRunConfigWizard.STORE_SET_AS_DEFAULT"/>
+	</section>
+</section>

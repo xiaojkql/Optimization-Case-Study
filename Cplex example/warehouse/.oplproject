@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config default="false" name="Basic Configuration" category="opl">
+			<ref name="warehouse.dat" type="data">
+			</ref>
+			<ref name="warehouse.mod" type="model">
+			</ref>
+		</config>
+		<config default="false" name="Scalable data" category="opl">
+			<ref name="scalableWarehouse.mod" type="model">
+			</ref>
+		</config>
+		<config default="false" name="Solution pool script" category="opl">
+			<ref name="solpoolscript.mod" type="model">
+			</ref>
+		</config>
+		<config default="false" name="Filter script" category="opl">
+			<ref name="warehouseCplexFilters.mod" type="model">
+			</ref>
+		</config>
+		<config default="true" name="Configuration1" category="opl">
+			<ref name="warehouse.mod" type="model">
+			</ref>
+			<ref name="warehouse.dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>

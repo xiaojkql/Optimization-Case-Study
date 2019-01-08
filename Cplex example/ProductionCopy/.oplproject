@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<description>A simple production model, MILP</description>
+	<configs>
+		<config default="true" name="Basic Configuration" category="opl">
+			<ref name="Production.mod" type="model">
+			</ref>
+			<ref name="Production.dat" type="data">
+			</ref>
+		</config>
+		<config default="false" name="Tuples" category="opl">
+		</config>
+	</configs>
+	
+</project>

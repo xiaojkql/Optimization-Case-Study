@@ -1,0 +1,15 @@
+/*********************************************
+ * OPL 12.8.0.0 Data
+ * Author: Lenovo
+ * Creation Date: Sep 25, 2018 at 11:18:32 AM
+ *********************************************/
+Products = {"gas","chloride"};
+Components = {"nitrogen","hydrogen","chlorine"};
+
+Profit = #["gas" : 40, "chloride" : 50]#;
+Demand = #[
+			"gas":#["nitrogen":1 "hydrogen":3 "chlorine":0]#,
+			"chloride":#["nitrogen":1 "hydrogen":4 "chlorine":1]#
+		 ]#;
+			
+Stock = #["nitrogen":50, "hydrogen":180, "chlorine":40]#;

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><launchConfiguration type="opl.launchType">
+<stringAttribute key="opl.debugModel.ATTR_ELEMENT_ID" value="=cutstockR\Run Con\figu\rationsrFull \relaxed p\roblem using column gene\ration"/>
+<stringAttribute key="opl.debugModel.ATTR_PROJECT" value="cutstock"/>
+<stringAttribute key="opl.debugModel.ATTR_RUN_CONFIG" value="Full relaxed problem using column generation"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/cutstock"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="4"/>
+</listAttribute>
+</launchConfiguration>
